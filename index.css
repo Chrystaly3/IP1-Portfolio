@@ -9,3 +9,11 @@ color: (ffffff);
 float: right;
 
 }
+.jumbotron{
+color: transparent;
+background-color: thistle;
+font-size: 10px;
+font-family: sans-serif;
+
+
+}
