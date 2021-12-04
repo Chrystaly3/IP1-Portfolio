@@ -2,18 +2,14 @@ img{
     margin-left: 10%;
     
 }
-.container{
-    width: 100%;
-    padding: 10px;
-color: (ffffff);
-float: right;
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    height: 100vh;
 
 }
-.jumbotron{
-    background-color: blueviolet;
-    font-family: 'Times New Roman', Times, serif;
-    font-size: large;
-    float: inline-end;
-    height: 100%;
-    
+.navtabs-style{
+    box-shadow: 0.5px 10px#efefef;
 }
