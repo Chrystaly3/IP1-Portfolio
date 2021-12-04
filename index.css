@@ -10,10 +10,10 @@ float: right;
 
 }
 .jumbotron{
-color: transparent;
-background-color: thistle;
-font-size: 10px;
-font-family: sans-serif;
-
-
+    background-color: blueviolet;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    float: inline-end;
+    height: 100%;
+    
 }
