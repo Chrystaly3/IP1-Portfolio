@@ -1,24 +1,37 @@
-:root{
-    --mainColor: violet;
-    --secondaryColor:#fff;
-  --border: yellowgreen;
 
 
 
-    --maintext:red;
-    --secondaryText:#blue;
-}
 
 
-html,body{
-    padding: 0;
-    margin: 0;
-}
-h1, h2, h3 ,h4 ,h5, h6,strong{
-color: var(--maintext);
+
+body{
+background-color: yellowgreen;
+font-family:'Roboto', sans-serif;;
 
 
 }
-p , li, span, label, input,textarea{
-    --secondaryText:var(--secondaryText);
+.m-heading{
+    font-family:'Roboto', sans-serif;;
+}
+.navigation-link{
+    text-decoration: none;
+    border: 2px solid crimson;
+    transition: 0.5s ease;
+}
+.main-container{
+    
+    t
+    min-height: 100vh;
+    padding-top: 5rem;
+
+}
+.main_row{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+
+}
+.main_row img{
+width: auto;
+    height: 56.9rem;
 }
