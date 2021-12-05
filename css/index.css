@@ -1,11 +1,29 @@
+*{
+    background-color: rgb(151, 165, 91);
+}
+
 .body,html{
     height: 100%;
+  
+}
+.display-5 mb-7 {
+    font-size: 10px;
+
+}
+.row {
+    display: flex;
 }
 .body{
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Russo One', sans-serif;
+    
+    
     font-style: 200;
     font-size: 0.5rem;
     color: rgb(202, 88, 202);
+}
+.intro{font-family: 'Russo One', sans-serif;
+    font-size: 10px;
+
 }
 .intro-left{
     background: url(..img/1.jpg);
@@ -17,6 +35,17 @@ height: 100%;
 background-color: tomato;
 font-family: 'Russo One', sans-serif;
 }
+.blockquote{
+font-size: 20px;
+font-family: 'Roboto', sans-serif;
+
+
+}
+
+
+
+
+
 @media (max-width:768px) {
     .intro-left{
         height: 30vh;
