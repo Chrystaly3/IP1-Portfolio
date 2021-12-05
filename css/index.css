@@ -1,14 +1,48 @@
-body,html{
+.body,html{
     height: 100%;
 }
-body{
-    font-style: ;
+.body{
+    font-style: 200;
+    font-size: 0.5rem;
+    color: rgb(202, 88, 202);
+}
+.intro-left{
+    background: url(..img/1.jpg);
+  
+position: fixed;
+left: 0;
+width:33.3333% ;
+height: 100%;
+background-color: tomato;
+}
+@media (max-width:768px) {
+    .intro-left{
+        height: 30vh;
+        margin-left: 0;
+        position: relative;
+        width: 100%;
+    }
+    
+}
+.main{
+    width: 10rem;
+    height: 10rem;
+    border-bottom: 50%;
+    margin: 1rem;
 }
 
+.full-height{
+    height: 100%;
+}
 
+.quotes{
+    float: right;
+}
+.a{
 
-
-
+    color: thistle;
+    text-decoration: none;
+}
 
 
 
