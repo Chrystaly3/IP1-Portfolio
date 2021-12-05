@@ -1,6 +1,6 @@
  # My Portfolio Document
 #### By Josephien Mueni 
-{Date of current version}
+A current version
 #### By **{List of contributors}**
 ## Description
 Its my school project with details of who I am ,the skills and my contacts
